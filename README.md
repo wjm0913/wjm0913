@@ -1,10 +1,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; 我是一名来自中国的 web 程序员.
+- 🤔 &nbsp; 我是一名来自中国的 web 程序员 wjm
 - 🎓 &nbsp; 毕业于“家里蹲”大学. good university.
 - 💼 &nbsp; 现就职中国xxxx游戏公司,然而我不写有关游戏的东西.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; 想C++ C# 做智能家具，智能农业.
 - ✍️ &nbsp; 特备喜欢 money 看见就兴奋.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
