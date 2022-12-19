@@ -5,7 +5,7 @@
 - 🎓 &nbsp; 毕业于“家里蹲”大学. good university.
 - 💼 &nbsp; 现就职中国xxxx游戏公司,然而我不写有关游戏的东西.
 - 🌱 &nbsp; 想深入学习C++ C# mqtt esp8266 做智能家具，智能农业.
-- ✍️ &nbsp; 特备喜欢 money 看见就兴奋.
+- ✍️ &nbsp; 加油加油
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
